@@ -56,7 +56,7 @@ The easiest way to install is using [Package Control][pc], where [Boxy][theme] i
 
 [**Read more &#8594;**][install]
 
-### MMANUAL INSTALL
+### MANUAL INSTALL
 1. Download zip to computer
 2. Open Packages directory
 3. Create 'Boxy Theme' directory
